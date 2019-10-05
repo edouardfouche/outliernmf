@@ -1,0 +1,13 @@
+matrices/*
+matrices/*.txt
+matrices/matrix.txt
+matrices/Z.txt
+!matrices/.keep
+
+plots/*
+!plots/.keep
+
+reports/*
+!reports/.keep
+
+.ipynb_checkpoints/
